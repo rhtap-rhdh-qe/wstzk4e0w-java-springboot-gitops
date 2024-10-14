@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wstzk4e0w-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wstzk4e0w-java-springboot-gitops
